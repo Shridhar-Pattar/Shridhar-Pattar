@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to collaborate on new projects
-![itsme](MYnewpic.jpg)
+
 
 <!---
 Shridhar-Pattar/Shridhar-Pattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
