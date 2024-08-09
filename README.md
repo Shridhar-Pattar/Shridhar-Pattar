@@ -1,7 +1,7 @@
 # Hi, I’m Shridhar Pattar 👋
 
 ## About Me
-I'm a passionate full-stack web developer with a keen interest in creating dynamic and responsive web applications. My journey in web development started with the basics of HTML and CSS, and I've since expanded my skill set to include various modern web technologies.
+I'm a Full Stack Developer skilled in creating and maintaining both front-end and back-end components of web applications. I design user interfaces with React and develop backend services using Spring Boot and MySQL. My work involves everything from crafting the UI to managing databases and building APIs. Additionally, I focus on troubleshooting, optimizing performance, and ensuring the security and scalability of applications.
 
 ## Technologies & Skills
 - **Frontend Development**
