@@ -1,7 +1,11 @@
 # Hi, I’m Shridhar Pattar 👋
 
 ## About Me
-I'm a Full Stack Developer skilled in creating and maintaining both front-end and back-end components of web applications. I design user interfaces with React and develop backend services using Spring Boot and MySQL. My work involves everything from crafting the UI to managing databases and building APIs. Additionally, I focus on troubleshooting, optimizing performance, and ensuring the security and scalability of applications.
+Intermediate Certified Mendix Developer with nearly 2 years of experience designing enterprise low-code applications for
+manufacturing, workflow automation, and compliance management. Skilled in Mendix Studio Pro, Microflows, Nanoflows,
+Domain Modeling, REST/OData integrations, and OpenAI/GPT-based AI solutions, with a strong Java foundation in
+backend and enterprise application architecture.
+
 
 ## Technologies & Skills
 - **Frontend Development**
