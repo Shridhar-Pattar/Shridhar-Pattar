@@ -158,7 +158,6 @@ Enterprise solution for:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shridharpattar-coder/
-- 🌐 Portfolio: https://shridhar-pattar.github.io/Portfolio-website/
 - 💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
