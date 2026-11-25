@@ -2,164 +2,97 @@
 
 ## 🚀 About Me
 
-Intermediate Certified Mendix Developer with nearly 2 years of experience building enterprise low-code applications for manufacturing, workflow automation, AI-powered solutions, and business process automation.
+Intermediate Certified Mendix Developer with nearly **2.3 years of experience** developing enterprise-grade low-code applications for manufacturing, workflow automation and business process digitization.
 
-I specialize in designing scalable applications using Mendix Studio Pro, integrating REST/OData services, developing workflow-driven systems, and leveraging OpenAI/GPT to create intelligent business applications. I also have a strong foundation in Java, Spring Boot, React, and enterprise software architecture.
+I specialize in building scalable Mendix applications, integrating enterprise systems, developing workflow-driven solutions and optimizing application performance. My experience includes industrial automation, SCADA/OPC UA integration, SAP integration, AI-powered applications and native mobile development.
 
 ---
 
 ## 💼 Experience
 
-**Mendix Developer**  
-**PROLIM Infosystems Pvt. Ltd.** (2024 – Present)
+**Mendix Developer | PROLIM Infosystems Pvt. Ltd.**  
+October 2024 – Present | Hubli, Karnataka
 
-Working on enterprise-grade applications including:
+### 🏭 Client Projects
 
-- 🏭 Manufacturing Execution Systems (MES)
-- 📋 Digital eLogbook Platform
-- 🤖 GPT-powered AI Chatbots
-- 📊 Professional Services Automation (PSA)
-- ✅ Quality Management Systems
-- 🔧 Preventive & Breakdown Maintenance
-- 📱 Native Mobile Applications
-- 📄 Dynamic PDF Reporting
-- 🔄 Workflow Automation & Approval Systems
+**1. Smart Campus Management System – Avaada** *(Ongoing)*
 
----
+Developing a centralized Mendix platform for a solar manufacturing plant, integrating e-Logbook, alert management, dashboards, reports and asset monitoring.
 
-## 🛠 Tech Stack
+- Integrated WinCC OA with Mendix using OPC UA for continuous process monitoring and automated threshold-based alerts.
+- Automated shift logbooks by combining SCADA/Historian readings with operator entries and generating PDF reports.
+- Implemented priority-based alert workflows, email notifications and SAP PM order integration.
+- Developed scheduled PDF/Excel reports, equipment monitoring and QR-code-based asset pages.
 
-### Low-Code
-- Mendix Studio Pro
-- Microflows
-- Nanoflows
-- Domain Modeling
-- Workflows
-- Native Mobile Apps
-- Atlas UI
-- Security Configuration
+**2. Enterprise eLogbook Platform – DFPCL** *(Delivered)*
 
-### AI & Integration
-- OpenAI API
-- GPT Integration
-- Retrieval-Augmented Generation (RAG)
-- AI Chatbots
-- Prompt Engineering
-- REST APIs
-- OData
-- JSON
-- Third-Party Integrations
+Co-developed a configurable digital logbook platform replacing paper-based manufacturing logbooks.
 
-### Programming
-- Java
-- JavaScript
-- Spring Boot
-- React.js
+- Developed configurable logbooks for equipment inspections, preventive maintenance and shift operations.
+- Created a custom Mendix widget for dynamic PDF generation.
+- Built a native mobile application with shift-wise submissions, approval workflows and offline synchronization.
+- Optimized application startup and synchronization time from **90 seconds to 8–10 seconds**.
 
-### Database
-- PostgreSQL
-- MySQL
+### 🛠 Internal & Self-Initiated Projects
 
-### Web
-- HTML
-- CSS
+**3. DeepQuery AI Chatbot**
 
-### Tools
-- Git
-- GitHub
-- Postman
-- IntelliJ IDEA
-- Jira
+Developed a GPT-powered chatbot using MxModelReflection to automatically generate Mendix OQL queries from natural-language questions, enabling non-technical users to interact with enterprise data.
+
+**4. Amesim FMU Integration for Mining**
+
+Integrated Siemens Amesim FMU simulation models with Mendix through REST APIs for mining processes including blasting, crushing, screening, dry milling, wet milling and heap leaching.
+
+**5. Manufacturing Execution System (MES)** *(In Progress)*
+
+Building a configurable MES application covering production planning, shop-floor execution, production tracking, quality management, maintenance, downtime tracking and analytics dashboards.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technical Skills
 
-### 🏭 Enterprise eLogbook Platform
-A configurable digital platform replacing paper-based manufacturing logbooks with:
-
-- Equipment inspections
-- Preventive maintenance
-- Shift operations
-- Role-based workflows
-- Dynamic PDF reports
-- Native mobile application with offline support
+- **Mendix:** Studio Pro 11.12, Domain Modeling, Microflows, Nanoflows, Workflows, Native Mobile, Java Actions, Task Queues, Scheduled Events, XPath, OQL, Security, PDF Generation and Excel Import/Export.
+- **Integrations:** REST APIs, OData, JSON, SAP PM/MM/PP, SCADA/PLC, OPC UA, Historian/NAS, Siemens Amesim FMU and JWT Authentication.
+- **AI & LLM:** OpenAI API, Ollama, RAG, AI Chatbots, Prompt Engineering and MxModelReflection.
+- **Programming:** Java, Spring Boot, JavaScript, SQL, HTML and CSS.
+- **Databases:** PostgreSQL and MySQL.
+- **Tools:** Git, GitHub, Jira, Postman and IntelliJ IDEA.
 
 ---
 
-### ⚙️ Manufacturing Execution System (MES)
+## 🎓 Education
 
-An enterprise manufacturing solution featuring:
-
-- Production planning
-- Shop-floor execution
-- Shift-wise production tracking
-- Inventory management
-- Quality inspections
-- Defect tracking
-- CAPA workflows
-- Manufacturing dashboards
-
----
-
-### 🤖 DeepQuery AI Chatbot
-
-Built a GPT-powered chatbot capable of:
-
-- Understanding natural language
-- Generating Mendix OQL queries automatically
-- Querying enterprise data
-- Integrating directly with Mendix applications
-
----
-
-### 📊 Professional Services Automation (PSA)
-
-Enterprise solution for:
-
-- Consultant management
-- Project allocation
-- Timesheet management
-- Multi-level approvals
-- Automated notifications
-- Role-based security
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Mendix Architecture
-- Enterprise Application Design
-- AI Agents & LLM Integration
-- Manufacturing Digital Transformation
-- Cloud Deployment
-- Microservices
-
----
-
-## 🤝 Looking to Collaborate On
-
-- Mendix Projects
-- Enterprise Low-Code Applications
-- Manufacturing Solutions
-- AI & GPT Integrations
-- Workflow Automation
-- Open Source Mendix Components
+**B.E. in Computer Science**  
+KLE Institute of Technology, Hubli | 2023  
+CGPA: 8.0 / 10
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Mendix Rapid Developer
-- ✅ Mendix Intermediate Developer
+- 🏆 Mendix Intermediate Developer – 2025
+- 🏆 Mendix Rapid Developer – 2024
+
+---
+
+## 🌱 Currently Exploring
+
+Advanced Mendix Architecture | AI Agents & LLM Integration | Enterprise Application Design | Manufacturing Digital Transformation | Microservices & Cloud Deployment
+
+---
+
+## 🤝 Looking to Collaborate On
+
+Mendix Enterprise Applications | Manufacturing Solutions | AI & GPT Integrations | Industrial Automation | Workflow Automation
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shridharpattar-coder/
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 💼 [LinkedIn](https://www.linkedin.com/in/shridharpattar-coder/)
+- 💻 [GitHub](https://github.com/YOUR_USERNAME)
+- 📧 shridharic405@gmail.com
 
 ---
 
-> *"Building enterprise applications that simplify complex business processes through Low-Code and AI."*
+> *Building enterprise applications that simplify complex business processes through Low-Code, Industrial Automation and AI.*
