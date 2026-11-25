@@ -90,7 +90,6 @@ Mendix Enterprise Applications | Manufacturing Solutions | AI & GPT Integrations
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shridharpattar-coder/)
-- 💻 [GitHub](https://github.com/YOUR_USERNAME)
 - 📧 shridharic405@gmail.com
 
 ---
